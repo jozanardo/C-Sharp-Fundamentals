@@ -1,0 +1,14 @@
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Check-Plate\bin\Debug\net8.0\Check-Plate.exe
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Check-Plate\bin\Debug\net8.0\Check-Plate.deps.json
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Check-Plate\bin\Debug\net8.0\Check-Plate.runtimeconfig.json
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Check-Plate\bin\Debug\net8.0\Check-Plate.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Check-Plate\bin\Debug\net8.0\Check-Plate.pdb
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Check-Plate\obj\Debug\net8.0\Check-Plate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Check-Plate\obj\Debug\net8.0\Check-Plate.AssemblyInfoInputs.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Check-Plate\obj\Debug\net8.0\Check-Plate.AssemblyInfo.cs
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Check-Plate\obj\Debug\net8.0\Check-Plate.csproj.CoreCompileInputs.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Check-Plate\obj\Debug\net8.0\Check-Plate.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Check-Plate\obj\Debug\net8.0\refint\Check-Plate.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Check-Plate\obj\Debug\net8.0\Check-Plate.pdb
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Check-Plate\obj\Debug\net8.0\Check-Plate.genruntimeconfig.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Check-Plate\obj\Debug\net8.0\ref\Check-Plate.dll

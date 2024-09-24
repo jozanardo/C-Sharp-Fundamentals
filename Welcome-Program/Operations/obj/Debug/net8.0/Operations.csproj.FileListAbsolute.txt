@@ -1,0 +1,14 @@
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Operations\bin\Debug\net8.0\Operations.exe
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Operations\bin\Debug\net8.0\Operations.deps.json
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Operations\bin\Debug\net8.0\Operations.runtimeconfig.json
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Operations\bin\Debug\net8.0\Operations.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Operations\bin\Debug\net8.0\Operations.pdb
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Operations\obj\Debug\net8.0\Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Operations\obj\Debug\net8.0\Operations.AssemblyInfoInputs.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Operations\obj\Debug\net8.0\Operations.AssemblyInfo.cs
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Operations\obj\Debug\net8.0\Operations.csproj.CoreCompileInputs.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Operations\obj\Debug\net8.0\Operations.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Operations\obj\Debug\net8.0\refint\Operations.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Operations\obj\Debug\net8.0\Operations.pdb
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Operations\obj\Debug\net8.0\Operations.genruntimeconfig.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Operations\obj\Debug\net8.0\ref\Operations.dll

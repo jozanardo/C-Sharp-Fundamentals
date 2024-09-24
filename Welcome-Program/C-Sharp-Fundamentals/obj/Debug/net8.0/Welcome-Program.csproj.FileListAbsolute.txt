@@ -1,0 +1,14 @@
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Welcome-Program\bin\Debug\net8.0\Welcome-Program.exe
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Welcome-Program\bin\Debug\net8.0\Welcome-Program.deps.json
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Welcome-Program\bin\Debug\net8.0\Welcome-Program.runtimeconfig.json
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Welcome-Program\bin\Debug\net8.0\Welcome-Program.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Welcome-Program\bin\Debug\net8.0\Welcome-Program.pdb
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Welcome-Program\obj\Debug\net8.0\Welcome-Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Welcome-Program\obj\Debug\net8.0\Welcome-Program.AssemblyInfoInputs.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Welcome-Program\obj\Debug\net8.0\Welcome-Program.AssemblyInfo.cs
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Welcome-Program\obj\Debug\net8.0\Welcome-Program.csproj.CoreCompileInputs.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Welcome-Program\obj\Debug\net8.0\Welcome-Program.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Welcome-Program\obj\Debug\net8.0\refint\Welcome-Program.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Welcome-Program\obj\Debug\net8.0\Welcome-Program.pdb
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Welcome-Program\obj\Debug\net8.0\Welcome-Program.genruntimeconfig.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Welcome-Program\obj\Debug\net8.0\ref\Welcome-Program.dll

@@ -1,0 +1,14 @@
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Counter\bin\Debug\net8.0\Counter.exe
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Counter\bin\Debug\net8.0\Counter.deps.json
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Counter\bin\Debug\net8.0\Counter.runtimeconfig.json
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Counter\bin\Debug\net8.0\Counter.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Counter\bin\Debug\net8.0\Counter.pdb
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Counter\obj\Debug\net8.0\Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Counter\obj\Debug\net8.0\Counter.AssemblyInfoInputs.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Counter\obj\Debug\net8.0\Counter.AssemblyInfo.cs
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Counter\obj\Debug\net8.0\Counter.csproj.CoreCompileInputs.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Counter\obj\Debug\net8.0\Counter.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Counter\obj\Debug\net8.0\refint\Counter.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Counter\obj\Debug\net8.0\Counter.pdb
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Counter\obj\Debug\net8.0\Counter.genruntimeconfig.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Counter\obj\Debug\net8.0\ref\Counter.dll

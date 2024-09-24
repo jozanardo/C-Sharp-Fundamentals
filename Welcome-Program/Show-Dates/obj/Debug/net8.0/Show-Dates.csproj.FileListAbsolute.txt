@@ -1,0 +1,14 @@
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Show-Dates\bin\Debug\net8.0\Show-Dates.exe
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Show-Dates\bin\Debug\net8.0\Show-Dates.deps.json
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Show-Dates\bin\Debug\net8.0\Show-Dates.runtimeconfig.json
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Show-Dates\bin\Debug\net8.0\Show-Dates.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Show-Dates\bin\Debug\net8.0\Show-Dates.pdb
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Show-Dates\obj\Debug\net8.0\Show-Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Show-Dates\obj\Debug\net8.0\Show-Dates.AssemblyInfoInputs.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Show-Dates\obj\Debug\net8.0\Show-Dates.AssemblyInfo.cs
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Show-Dates\obj\Debug\net8.0\Show-Dates.csproj.CoreCompileInputs.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Show-Dates\obj\Debug\net8.0\Show-Dates.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Show-Dates\obj\Debug\net8.0\refint\Show-Dates.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Show-Dates\obj\Debug\net8.0\Show-Dates.pdb
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Show-Dates\obj\Debug\net8.0\Show-Dates.genruntimeconfig.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Show-Dates\obj\Debug\net8.0\ref\Show-Dates.dll

@@ -1,0 +1,14 @@
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Concatenate\bin\Debug\net8.0\Concatenate.exe
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Concatenate\bin\Debug\net8.0\Concatenate.deps.json
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Concatenate\bin\Debug\net8.0\Concatenate.runtimeconfig.json
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Concatenate\bin\Debug\net8.0\Concatenate.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Concatenate\bin\Debug\net8.0\Concatenate.pdb
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Concatenate\obj\Debug\net8.0\Concatenate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Concatenate\obj\Debug\net8.0\Concatenate.AssemblyInfoInputs.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Concatenate\obj\Debug\net8.0\Concatenate.AssemblyInfo.cs
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Concatenate\obj\Debug\net8.0\Concatenate.csproj.CoreCompileInputs.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Concatenate\obj\Debug\net8.0\Concatenate.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Concatenate\obj\Debug\net8.0\refint\Concatenate.dll
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Concatenate\obj\Debug\net8.0\Concatenate.pdb
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Concatenate\obj\Debug\net8.0\Concatenate.genruntimeconfig.cache
+C:\Programming\Rocketseat\C#\C-Sharp-Fundamentals\Welcome-Program\Concatenate\obj\Debug\net8.0\ref\Concatenate.dll
